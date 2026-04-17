@@ -21,6 +21,7 @@ public class ChoseLvl : MonoBehaviour
     {
         if (dropdown != null)
         {
+
             if (dropdown.value == 0)
             {
                 sceneToLoad = "Lvl1";
